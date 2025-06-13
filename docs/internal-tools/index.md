@@ -76,13 +76,14 @@ This document provides a comprehensive mapping of Faktion's 7-phase evaluation-d
 
 ### **Hybrid Strategy**
 Faktion employs a hybrid approach combining:
+
 - **Third-party tools** for established functionalities (testing, monitoring, UI frameworks)
 - **Custom-built solutions** for domain-specific requirements and unique business logic
 - **Open-source frameworks** as foundations, extended with custom implementations
 
 ### **Key Success Factors**
-1. **Data-driven decision making** through comprehensive metrics collection
-2. **Integration of automated and human evaluation** for balanced assessment
+1. **Data-driven decision making** via carefully defined metrics
+2. **Integration of automated and human evaluation** for continuous feedback collection
 3. **Continuous experimentation and validation** before full implementation
 4. **Cross-functional collaboration** throughout the entire process
 5. **Scalable architecture** supporting both rapid prototyping and production deployment
