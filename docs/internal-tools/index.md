@@ -30,7 +30,7 @@ This document provides a comprehensive mapping of Faktion's 7-phase evaluation-d
 
 ---
 
-## Key Third-Party Tools & Technologies
+## Key Third-Party Tools & Frameworks
 
 ### **Evaluation & Testing Frameworks**
 - **AutoEvals/RAGAs**: Open-source frameworks for LLM-as-Judge metrics and RAG evaluation
