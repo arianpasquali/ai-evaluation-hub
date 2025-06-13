@@ -1,0 +1,172 @@
+[
+  {
+    "path": "knowledge-base/Data Flywheels for LLM Applications.pdf",
+    "type": "pdf",
+    "size": 631080,
+    "created": "2025-06-11T18:24:24.369388",
+    "modified": "2025-06-11T18:24:24.369388",
+    "title": "Data Flywheels for LLM Applications",
+    "word_count": 4168,
+    "author": null
+  },
+  {
+    "path": "knowledge-base/An LLM-as-Judge Won't Save The Product\u2014Fixing Your Process Will.pdf",
+    "type": "pdf",
+    "size": 856039,
+    "created": "2025-06-11T18:23:25.527637",
+    "modified": "2025-06-11T18:23:25.527637",
+    "title": "An LLM-as-Judge Won't Save The Product\u2014Fixing Your Process Will",
+    "word_count": 1017,
+    "author": null
+  },
+  {
+    "path": "knowledge-base/hamel/course_notes_ch_1to11.pdf",
+    "type": "pdf",
+    "size": 5036794,
+    "created": "2025-06-11T18:21:03.512949",
+    "modified": "2025-06-11T18:18:58.044771",
+    "title": "Application-Centric AI Evals for Engineers and Technical PMs",
+    "word_count": 56950,
+    "author": "Shreya Shankar and Hamel Husain"
+  },
+  {
+    "path": "knowledge-base/hamel/Lesson 2.pdf",
+    "type": "pdf",
+    "size": 707772,
+    "created": "2025-06-11T18:21:06.373589",
+    "modified": "2025-06-11T18:21:06.373488",
+    "title": "Lesson 2",
+    "word_count": 1017,
+    "author": null
+  },
+  {
+    "path": "knowledge-base/hamel/Lesson 3.pdf",
+    "type": "pdf",
+    "size": 1148285,
+    "created": "2025-06-11T18:21:06.366655",
+    "modified": "2025-06-11T18:21:06.366555",
+    "title": "Lesson 3",
+    "word_count": 2758,
+    "author": null
+  },
+  {
+    "path": "knowledge-base/hamel/Lesson 1.pdf",
+    "type": "pdf",
+    "size": 1311987,
+    "created": "2025-06-11T18:21:06.378317",
+    "modified": "2025-06-11T18:21:06.378215",
+    "title": "Lesson 1",
+    "word_count": 1850,
+    "author": null
+  },
+  {
+    "path": "knowledge-base/hamel/Lesson 4.pdf",
+    "type": "pdf",
+    "size": 706254,
+    "created": "2025-06-11T18:21:06.362842",
+    "modified": "2025-06-11T18:21:06.362754",
+    "title": "Lesson 4",
+    "word_count": 1448,
+    "author": null
+  },
+  {
+    "path": "knowledge-base/hamel/Your AI Product Needs Evals.pdf",
+    "type": "pdf",
+    "size": 1433895,
+    "created": "2025-06-11T18:22:12.137452",
+    "modified": "2025-06-11T18:22:12.137452",
+    "title": "Your AI Product Needs Evals \u2013 Hamel's Blog",
+    "word_count": 3795,
+    "author": null
+  },
+  {
+    "path": "knowledge-base/hamel/Lesson 7.pdf",
+    "type": "pdf",
+    "size": 4850476,
+    "created": "2025-06-11T18:21:06.345472",
+    "modified": "2025-06-11T18:21:06.345215",
+    "title": "Lesson 7",
+    "word_count": 1014,
+    "author": null
+  },
+  {
+    "path": "knowledge-base/hamel/Lesson 6.pdf",
+    "type": "pdf",
+    "size": 2256364,
+    "created": "2025-06-11T18:21:06.352722",
+    "modified": "2025-06-11T18:21:06.352561",
+    "title": "Lesson 6",
+    "word_count": 2016,
+    "author": null
+  },
+  {
+    "path": "knowledge-base/hamel/[AI Evals Course] 5_30 - Generative Benchmarking.pdf",
+    "type": "pdf",
+    "size": 2281751,
+    "created": "2025-06-11T18:21:06.359108",
+    "modified": "2025-06-11T18:21:06.358966",
+    "title": "[AI Evals Course] 5/30 - Generative Benchmarking",
+    "word_count": 646,
+    "author": null
+  },
+  {
+    "path": "knowledge-base/faktion/RS-A practical guide to evaluating agents-110625-163741.pdf",
+    "type": "pdf",
+    "size": 1244682,
+    "created": "2025-06-11T18:39:21.263624",
+    "modified": "2025-06-11T18:39:12.068503",
+    "title": "A practical guide to evaluating agents - RFP - SDWorx - Confluence",
+    "word_count": 6045,
+    "author": null
+  },
+  {
+    "path": "knowledge-base/faktion/MTG-Introducing Our Evaluation-Driven Development Process-110625-163748.pdf",
+    "type": "pdf",
+    "size": 3214248,
+    "created": "2025-06-11T18:39:26.911434",
+    "modified": "2025-06-11T18:39:12.063798",
+    "title": "Introducing Our Evaluation-Driven Development Process - ML Team - General - Confluence",
+    "word_count": 1830,
+    "author": null
+  },
+  {
+    "path": "knowledge-base/jason/How to Improve RAG Applications; 6 Proven Strategies - Jason Liu.pdf",
+    "type": "pdf",
+    "size": 148051,
+    "created": "2025-06-11T18:41:28.084053",
+    "modified": "2025-06-11T18:41:28.084053",
+    "title": "How to Improve RAG Applications; 6 Proven Strategies - Jason Liu",
+    "word_count": 685,
+    "author": null
+  },
+  {
+    "path": "knowledge-base/jason/The RAG Playbook - Jason Liu.pdf",
+    "type": "pdf",
+    "size": 170454,
+    "created": "2025-06-11T18:41:18.201123",
+    "modified": "2025-06-11T18:41:18.201123",
+    "title": "The RAG Playbook - Jason Liu",
+    "word_count": 939,
+    "author": null
+  },
+  {
+    "path": "knowledge-base/jason/FAQ on Improving RAG Applications - Jason Liu.pdf",
+    "type": "pdf",
+    "size": 258615,
+    "created": "2025-06-11T18:41:12.202651",
+    "modified": "2025-06-11T18:41:12.202651",
+    "title": "FAQ on Improving RAG Applications - Jason Liu",
+    "word_count": 2624,
+    "author": null
+  },
+  {
+    "path": "knowledge-base/jason/Systematically Improving Your RAG - Jason Liu.pdf",
+    "type": "pdf",
+    "size": 170750,
+    "created": "2025-06-11T18:41:21.855701",
+    "modified": "2025-06-11T18:41:21.855701",
+    "title": "Systematically Improving Your RAG - Jason Liu",
+    "word_count": 2480,
+    "author": null
+  }
+]

@@ -1,0 +1,107 @@
+site_name: Faktion AI Evaluation Hub
+site_description: Transform AI Evaluation with Data-Driven Excellence - Comprehensive methodology for generative AI evaluation
+site_url: https://docs.arianpasquali.com/ai-evaluation
+site_author: Arian Pasquali
+
+# Repository
+repo_name: arianpasquali/ai-evaluation-hub
+repo_url: https://github.com/arianpasquali/ai-evaluation-hub
+edit_uri: edit/main/docs/
+
+# Configuration
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - content.tooltips
+    - header.autohide
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - toc.integrate
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  favicon: assets/favicon.png
+  logo: assets/logo.svg
+  icon:
+    repo: fontawesome/brands/github
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  # - social:
+  #     cards_layout_options:
+  #       background_color: "#667eea"
+  #       color: "#ffffff"
+
+# Customization
+extra:
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/faktion
+      name: Faktion on GitHub
+
+nav:
+  - Home: index.md
+  - Principles: principles/index.md
+  - Evaluation-Driven Methodology:
+      - Methodology: introduction/evaluation-driven-methodology.md
+      - Analyze-Measure-Improve Lifecycle: introduction/analyze-measure-improve.md
+  # - Agents Evaluation: agents-evaluation/index.md
+  - RAG Evaluation: rag-evaluation/index.md
+  - Case Studies:
+      - Overview: case-studies/index.md
+      - Client Projects: case-studies/client-projects.md
+      - Lessons Learned: case-studies/lessons-learned.md
+  - Tools:
+      - Overview: internal-tools/index.md
+      - Synthetic Dataset Generation: internal-tools/synthetic-dataset-generation.md
+      - Error Analysis: internal-tools/error-analysis.md
+      - Conversation Analysis: internal-tools/conversation-analysis.md
+      - Feedback Analysis: internal-tools/feedback-analysis.md
+      - AB Testing: internal-tools/ab-testing.md
+  - Resources:
+      - Frameworks: resources/frameworks.md
+      - Templates: resources/templates.md
+      - Checklists: resources/checklists.md
+      - Glossary: knowledge-base/glossary.md
+  - About: about/index.md
